@@ -1,0 +1,28 @@
+#withdrawalModal{
+    background-color: gray;
+    margin-left:2vw;
+    padding-right:1vw;
+    padding-left:1vw;
+}
+#depositModal{
+
+    padding-right:2vw;
+}
+#accountfinder{
+    font-size:2.5vh;
+    margin-left:1vw;
+}
+#withdrawalModal input,#withdrawalAccount{
+    background-color: rgb(82, 80, 77);
+    font-size:2vh;
+    margin-left:2vw;
+}
+input,#depositAccount{
+    background-color: antiquewhite;
+    font-size:2.5vh;
+}
+.photodisplay{
+    background-image: url("./images/currency.jpeg");
+    opacity:60%;
+    height:40vh;
+}
